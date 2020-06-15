@@ -1,0 +1,7 @@
+organization=nishchinta
+projectKey=nishchinta_OrderMicroservice
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8621
+dashboardUrl=https://sonarcloud.io/dashboard?id=nishchinta_OrderMicroservice
+ceTaskId=AXKoG2m_oU4B4I7Yps3b
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXKoG2m_oU4B4I7Yps3b

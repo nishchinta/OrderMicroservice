@@ -1,0 +1,27 @@
+
+Tcom.management.OrderMS.controller.OrderController#getproductorders()Ljava/util/List;t
+jC:/Users/Nishchinta/OrderMicroservice/src/main/java/com/management/OrderMS/controller/OrderController.java+ +(/"1*ï
+1t
+jC:/Users/Nishchinta/OrderMicroservice/src/main/java/com/management/OrderMS/controller/OrderController.java," ,(.û
+ø
+t
+jC:/Users/Nishchinta/OrderMicroservice/src/main/java/com/management/OrderMS/controller/OrderController.java," ,(.1
+%0+com.management.OrderMS.service.OrderService"__id*G*E3
+1com.management.OrderMS.controller.OrderController"
+orderService¨¥
+t
+jC:/Users/Nishchinta/OrderMicroservice/src/main/java/com/management/OrderMS/controller/OrderController.java," ,(A
+%1java.util.List"Ncom.management.OrderMS.service.OrderService#getproductorders()Ljava/util/List;*3
+1
+%0+com.management.OrderMS.service.OrderService2getproductorders()³
+°
+t
+jC:/Users/Nishchinta/OrderMicroservice/src/main/java/com/management/OrderMS/controller/OrderController.java, ,(B
+orderDtojava.util.List"__id*
+
+%1java.util.List"”
+t
+jC:/Users/Nishchinta/OrderMicroservice/src/main/java/com/management/OrderMS/controller/OrderController.java- -(
+
+orderDtojava.util.ListB53
+1com.management.OrderMS.controller.OrderController
